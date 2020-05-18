@@ -1,0 +1,114 @@
+{
+    "source": "adobe",
+    "type": "vendor",
+    "cves": [
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3715",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Commerce",
+            "description": "Stored cross-site scripting",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "2.3.4"
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3758",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Open Source",
+            "description": "Stored cross-site scripting",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "2.3.4"
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3716",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Commerce",
+            "description": "Deserialization of untrusted data",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "2.2.11"
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3717",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Open Source",
+            "description": "Path traversal",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "2.2.11"
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3718",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Enterprise Edition",
+            "description": "Security bypass",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "1.14.4.4"
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": "2020-05-14T16:20Z",
+            "published_date": "January 28, 2020",
+            "id": "CVE-2020-3719",
+            "url": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "name": "Magento Community Edition",
+            "description": "SQL injection",
+            "cpes": {
+                "cpe_list": [
+                    {
+                        "vendor": "magento",
+                        "product": "commerce",
+                        "category": "a",
+                        "versionEndIncluding": "1.9.4.4"
+                    }
+                ]
+            }
+        }
+    ]
+}
