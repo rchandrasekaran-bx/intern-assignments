@@ -1,0 +1,294 @@
+{
+    "Source": "adobe",
+    "Type": "Vendor",
+    "CVEs": [
+        {
+            "Timestamp": "2020-05-16T17:41:14.957520",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3715 ",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "Stored cross-site scripting ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:14.981506",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3758",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "Stored cross-site scripting ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:15.009462",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3716",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "Deserialization of untrusted data ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:15.034476",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3717",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "Path traversal ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:15.059431",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3718",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "Security bypass ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:15.082418",
+            "Published Date": "2020-01-28T00:00:00.000000",
+            "ID": "CVE-2020-3719",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Magento ",
+            "Description": "SQL injection ",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source ",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.3.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Commerce",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Open Source",
+                        "Category": "a",
+                        "VersionEndIncluding": "2.2.10"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Enterprise Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.14.4.3"
+                    },
+                    {
+                        "Vendor": "Magento",
+                        "Product": "Magento Community Edition ",
+                        "Category": "a",
+                        "VersionEndIncluding": "1.9.4.3"
+                    }
+                ]
+            }
+        }
+    ]
+}

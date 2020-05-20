@@ -1,0 +1,2 @@
+https://helpx.adobe.com/security/products/experience-manager/apsb20-01.html
+https://helpx.adobe.com/security/products/magento/apsb20-02.html

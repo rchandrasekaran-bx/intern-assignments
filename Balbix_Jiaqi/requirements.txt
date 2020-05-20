@@ -1,0 +1,6 @@
+REQUIRED LIBRARIES:
+os
+bs4
+json
+datetime
+calendar

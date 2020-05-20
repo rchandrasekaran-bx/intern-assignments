@@ -1,0 +1,9 @@
+Libraries Used - 
+
+1. Beautiful Soup 4
+2. Requests
+3. JSON
+4. lxml
+5. Datetime
+
+Technology - Python 3

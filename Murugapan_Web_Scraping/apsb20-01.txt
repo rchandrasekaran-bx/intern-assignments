@@ -1,0 +1,82 @@
+{
+    "Source": "adobe",
+    "Type": "Vendor",
+    "CVEs": [
+        {
+            "Timestamp": "2020-05-16T17:41:14.468660",
+            "Published Date": "2020-01-14T00:00:00.000000",
+            "ID": "CVE-2019-16466",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Adobe Experience Manager ",
+            "Description": "Cross-Site Script Inclusion",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Adobe",
+                        "Product": "Adobe Experience Manager",
+                        "Category": "a",
+                        "VersionStartIncluding": "AEM6.1",
+                        "VersionEndIncluding": "AEM6.5"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:14.498642",
+            "Published Date": "2020-01-14T00:00:00.000000",
+            "ID": "CVE-2019-16467",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Adobe Experience Manager ",
+            "Description": "Reflected Cross-Site Scripting",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Adobe",
+                        "Product": "Adobe Experience Manager",
+                        "Category": "a",
+                        "VersionStartIncluding": "AEM6.1",
+                        "VersionEndIncluding": "AEM6.5"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:14.522629",
+            "Published Date": "2020-01-14T00:00:00.000000",
+            "ID": "CVE-2019-16468",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Adobe Experience Manager ",
+            "Description": "User Interface Injection",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Adobe",
+                        "Product": "Adobe Experience Manager",
+                        "Category": "a",
+                        "VersionStartIncluding": "AEM6.3",
+                        "VersionEndIncluding": "AEM6.5"
+                    }
+                ]
+            }
+        },
+        {
+            "Timestamp": "2020-05-16T17:41:14.545591",
+            "Published Date": "2020-01-14T00:00:00.000000",
+            "ID": "CVE-2019-16469",
+            "URL": "https://helpx.adobe.com/security/products/magento/apsb20-02.html",
+            "Name": " Adobe Experience Manager ",
+            "Description": "Expression Language injection",
+            "CPEs": {
+                "CPE_List": [
+                    {
+                        "Vendor": "Adobe",
+                        "Product": "Adobe Experience Manager",
+                        "Category": "a",
+                        "VersionStartIncluding": "AEM6.5",
+                        "VersionEndIncluding": "AEM6.5"
+                    }
+                ]
+            }
+        }
+    ]
+}
