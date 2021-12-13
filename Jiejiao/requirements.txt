@@ -8,7 +8,7 @@ cryptography==2.9.2
 decorator==4.4.2
 html5lib==1.0.1
 idna==2.9
-lxml==4.5.0
+lxml==4.6.5
 numpy==1.18.4
 pandas==1.0.3
 pycparser==2.20
